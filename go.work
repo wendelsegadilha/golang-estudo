@@ -1,0 +1,6 @@
+go 1.21.5
+
+use (
+	./01-pacotes
+	./17-aplicacao-linha-comando
+)

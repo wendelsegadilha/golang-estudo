@@ -1,0 +1,5 @@
+mode: set
+testes/pagamento/pagamento.go:5.49,10.29 3 1
+testes/pagamento/pagamento.go:10.29,11.27 1 1
+testes/pagamento/pagamento.go:11.27,13.4 1 1
+testes/pagamento/pagamento.go:16.2,16.25 1 1
